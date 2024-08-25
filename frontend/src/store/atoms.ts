@@ -1,4 +1,4 @@
-import { backendURL } from "@/config/backendURL";
+import { backendURL } from "../config/backendURL";
 import axios from "axios";
 import { atomFamily, selectorFamily } from "recoil";
 
